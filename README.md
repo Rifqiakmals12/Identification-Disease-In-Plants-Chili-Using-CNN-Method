@@ -1,0 +1,1 @@
+# Rifqiakmals12-Indentifikasi-Penyakit-Pada-Tanaman-Cabai-Menggunakan-Metode-CNN
